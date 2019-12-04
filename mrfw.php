@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Manual Reviews for WooCommerce
  * Description: A simple and easy way to manually add verified product reviews from your WordPress dashboard.
- * Version: 1.0
+ * Version: 1.0.1
  * Author: mesbahamine
  * Author URI: http://royalz.store
  * Requires at least: 4.7
