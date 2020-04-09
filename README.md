@@ -1,4 +1,5 @@
 === Manual Reviews for WooCommerce ===
+
 Contributors: iamaminemesbah
 Tags: woocommerce, conversion, ecommerce, boost, review, reviews
 Requires at least: 4.7
