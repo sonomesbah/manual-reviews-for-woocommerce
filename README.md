@@ -1,4 +1,5 @@
-=== Manual Reviews for WooCommerce ===
+Manual Reviews for WooCommerce
+=======
 
 Contributors: iamaminemesbah
 Tags: woocommerce, conversion, ecommerce, boost, review, reviews
@@ -10,7 +11,7 @@ License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 A simple and easy way to manually add WooCommerce product reviews from your WordPress dashboard.
 
-== Description ==
+**Description**: 
 
 Customers prefer going through product reviews to decide if they want to buy a product. 🙈
 
@@ -24,24 +25,19 @@ Products with positive reviews have more sales 🤑
 
 When you create a review, you will have the option to make it verified. It will look authentic with that green mark on your product page, and when your future customers leave reviews on your store, the reviews you have created will simply merge with the rest of the reviews, you can modify them, you delete them like any other review.
 
-== Installation ==
+## Installation 
 
 1. Upload the `manual-reviews-for-woocommerce` folder to your plugins directory (e.g. `/wp-content/plugins/`)
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Follow the instructions
 
-== Frequently Asked Questions ==
+## Changelog
 
-= Why are there no FAQs besides this one? =
+= 1.0.2 =
+* Ability to select a review date.
 
-Because you haven't asked one yet.
-
-== Screenshots ==
-
-1. The slick Manual Reviews metabox.
-2. There is no difference between the reviews you added manually and the ones left by your customers.
-
-== Changelog ==
+= 1.0.1 =
+* Minor bug fixes.
 
 = 1.0 =
-* Initial Release
+* Initial Release.
