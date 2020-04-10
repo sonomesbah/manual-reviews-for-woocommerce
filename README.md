@@ -9,8 +9,6 @@ Manual Reviews for WooCommerce
 * License: GPLv3
 * License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-A simple and easy way to manually add WooCommerce product reviews from your WordPress dashboard.
-
 ## Description
 
 Customers prefer going through product reviews to decide if they want to buy a product. 🙈
