@@ -4,7 +4,7 @@ Manual Reviews for WooCommerce
 * Contributors: iamaminemesbah
 * Tags: woocommerce, conversion, ecommerce, boost, review, reviews
 * Requires at least: 4.7
-* Tested up to: 4.9.4
+* Tested up to: 5.4
 * Stable tag: 1.0.2
 * License: GPLv3
 * License URI: https://www.gnu.org/licenses/gpl-3.0.html
