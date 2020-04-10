@@ -11,7 +11,7 @@ License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 A simple and easy way to manually add WooCommerce product reviews from your WordPress dashboard.
 
-**Description**: 
+## Description
 
 Customers prefer going through product reviews to decide if they want to buy a product. 🙈
 
@@ -33,11 +33,11 @@ When you create a review, you will have the option to make it verified. It will 
 
 ## Changelog
 
-= 1.0.2 =
+**1.0.2**
 * Ability to select a review date.
 
-= 1.0.1 =
+**1.0.1**
 * Minor bug fixes.
 
-= 1.0 =
+**1.0**
 * Initial Release.
